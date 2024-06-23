@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kachali Sarma
-- 👀 I’m a final year B.tech undergrad 
-- 🌱 I’m currently into ML
+- 👀 Data Analytics Profession
+- 🌱 I’m currently into BigData
 
 
 <!---
